@@ -1,0 +1,22 @@
+1664983058072	geckodriver	INFO	Listening on 127.0.0.1:54213
+1664983058229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54214" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/40/crw42vgx6v51lz5k67c4gzfr0000gn/T/rust_mozprofileLKrftq"
+1664983065712	Marionette	INFO	Marionette enabled
+1664983065818	Marionette	INFO	Listening on port 54233
+Read port: 54233
+WebDriver BiDi listening on ws://127.0.0.1:54214
+1664983066777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/40/crw42vgx6v51lz5k67c4gzfr0000gn/T/rust_mozprofileLKrftq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54214/devtools/browser/3168deaf-8447-4983-9eb6-bb26f2cffc62
+1664983070808	Marionette	INFO	Stopped listening on port 54233
+1664983965072	geckodriver	INFO	Listening on 127.0.0.1:55463
+1664983965591	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55464" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/40/crw42vgx6v51lz5k67c4gzfr0000gn/T/rust_mozprofilebpcS3E"
+*** You are running in headless mode.
+1664983966479	Marionette	INFO	Marionette enabled
+1664983966525	Marionette	INFO	Listening on port 55471
+Read port: 55471
+WebDriver BiDi listening on ws://127.0.0.1:55464
+1664983967137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/40/crw42vgx6v51lz5k67c4gzfr0000gn/T/rust_mozprofilebpcS3E/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55464/devtools/browser/eacda197-ed8e-4745-8ff7-51f66b354016
+1664983970529	Marionette	INFO	Stopped listening on port 55471
