@@ -20,3 +20,25 @@ WebDriver BiDi listening on ws://127.0.0.1:55464
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/40/crw42vgx6v51lz5k67c4gzfr0000gn/T/rust_mozprofilebpcS3E/search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:55464/devtools/browser/eacda197-ed8e-4745-8ff7-51f66b354016
 1664983970529	Marionette	INFO	Stopped listening on port 55471
+1665919872486	geckodriver	INFO	Listening on 127.0.0.1:49930
+1665919873007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49931" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/40/crw42vgx6v51lz5k67c4gzfr0000gn/T/rust_mozprofile61VH5n"
+1665919880270	Marionette	INFO	Marionette enabled
+1665919880344	Marionette	INFO	Listening on port 49940
+Read port: 49940
+WebDriver BiDi listening on ws://127.0.0.1:49931
+1665919880989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/40/crw42vgx6v51lz5k67c4gzfr0000gn/T/rust_mozprofile61VH5n/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49931/devtools/browser/11c93af9-34ff-4759-b9e3-1431328a8cbf
+1665919884884	Marionette	INFO	Stopped listening on port 49940
+1665919919561	geckodriver	INFO	Listening on 127.0.0.1:50031
+1665919920087	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "50032" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/40/crw42vgx6v51lz5k67c4gzfr0000gn/T/rust_mozprofilev7Jgvq"
+*** You are running in headless mode.
+1665919920784	Marionette	INFO	Marionette enabled
+1665919920879	Marionette	INFO	Listening on port 50039
+Read port: 50039
+WebDriver BiDi listening on ws://127.0.0.1:50032
+1665919921458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/40/crw42vgx6v51lz5k67c4gzfr0000gn/T/rust_mozprofilev7Jgvq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50032/devtools/browser/ab5ac00e-8aa4-44e9-bffb-d9bd12aadedc
+1665919924397	Marionette	INFO	Stopped listening on port 50039
